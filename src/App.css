@@ -10,6 +10,8 @@ div {
   box-sizing:border-box;
 }
 .list {
+  display:flex;
+  justify-content: space-between;
   padding-left: 20px;
   text-align:  left;
   border-bottom: 1px solid gray;
